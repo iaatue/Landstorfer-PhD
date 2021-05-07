@@ -1,7 +1,7 @@
-Doktorarbeit Alexander Landstorfer, Tübingen, 2021
+PhD thesis Alexander Landstorfer, Tübingen, 2021
 
 
-Inhalt
+content
 
 
 
@@ -28,7 +28,7 @@ Make_Isolated_Feige.m,
 Make_Linelists_Feige.m,
 Prepare_Linelists_Feige.m
 
-
+-------------------------------------------------------------------------------------
 
 tables/
 
