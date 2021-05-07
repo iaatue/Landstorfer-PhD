@@ -37,9 +37,9 @@ by ','. The column headers are given before the table entries start. The basic b
 is the following:
 
 #Table description  
-#  
+# 
 #column headers  
-#  
+# 
 table  
 
 Tables 25-30 correspond to the thesis's tables. Feige_autom_ALL and PG_autom_ALL 
