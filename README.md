@@ -7,7 +7,7 @@ content
 
 code/
 
-The code/ files are written as Matlab Code (tested on R2020b), comments are indicated 
+The code/ files are written as Matlab code (tested on R2020b), comments are indicated 
 by a '%' at the beginning of a line. The basic build is the following:
 
 % code description, input and output description  
