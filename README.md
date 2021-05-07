@@ -36,8 +36,8 @@ In the tables/ files, comments are indicated by a '#'. Table columns are separat
 by ','. The column headers are given before the table entries start. The basic build 
 is the following:
 
-#Table description  
-# 
+#Table description
+#<br>
 #column headers  
 # 
 table  
