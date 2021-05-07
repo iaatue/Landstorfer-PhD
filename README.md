@@ -43,7 +43,7 @@ is the following:
 table  
 
 Tables 25-30 correspond to the thesis's tables. Feige_autom_ALL and PG_autom_ALL 
-comprise all found transitions in the respective stellar spectrum.
+comprise all identified transitions in the respective stellar spectrum.
 
 
 Feige_autom_ALL.txt,
