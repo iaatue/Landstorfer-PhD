@@ -20,12 +20,12 @@ output data
 The file names correspond to the files mentioned in the thesis's appendix.
 
 
-Equ_width_Feige.m,
-Feige_make_Contfact.m,
-Finish_Isolated_Feige.m,
-FUNmakeCont.m,
-Make_Isolated_Feige.m,
-Make_Linelists_Feige.m,
+Equ_width_Feige.m  
+Feige_make_Contfact.m  
+Finish_Isolated_Feige.m  
+FUNmakeCont.m  
+Make_Isolated_Feige.m  
+Make_Linelists_Feige.m  
 Prepare_Linelists_Feige.m
 
 -------------------------------------------------------------------------------------
@@ -46,12 +46,12 @@ Tables 25-30 correspond to the thesis's tables. Feige_autom_ALL and PG_autom_ALL
 comprise all identified transitions in the respective stellar spectrum.
 
 
-Feige_autom_ALL.txt,
-PG_autom_ALL.txt,
-Table_25_rel_lines.txt,
-Table_26_Fei_iso_autom.txt,
-Table_27_PG_iso_autom.txt,
-Table_28_Fei_iso_manual.txt,
-Table_29_Cu.txt,
+Feige_autom_ALL.txt  
+PG_autom_ALL.txt  
+Table_25_rel_lines.txt  
+Table_26_Fei_iso_autom.txt  
+Table_27_PG_iso_autom.txt  
+Table_28_Fei_iso_manual.txt  
+Table_29_Cu.txt  
 Table_30_Zn.txt
 
